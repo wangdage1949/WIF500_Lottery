@@ -14,3 +14,12 @@ WifSolverCuda.exe -wif LXXXXXXXXXXX5bCRZhiS5sEGMpmcRZdpAhmWLRfMmutGmPHtjVob -a 1
 以100*4090为例，预计 12 天可以跑完。
 
 1.2cpu版本已发布  https://github.com/wangdage1949/WIF500_Lottery/releases/tag/v1.2
+
+详细模式（显示所有信息）：
+btc_lottery.exe  --method 9 --count 10000000000000000 --batch-size 10000 --verbose
+
+快速模式（只显示统计）：
+btc_lottery.exe --method 1 --count 10000000000000000 --batch-size 1000 --fast
+
+普通模式（平衡显示）
+btc_lottery.exe --method 1 --count 100000000000000000 --batch-size 1000
