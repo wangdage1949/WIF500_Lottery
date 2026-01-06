@@ -12,3 +12,5 @@ WifSolverCuda.exe -wif LXXXXXXXXXXX5bCRZhiS5sEGMpmcRZdpAhmWLRfMmutGmPHtjVob -a 1
 <img width="1128" height="486" alt="image" src="https://github.com/user-attachments/assets/3b684441-85a1-4419-9f19-1b6bbbc068e6" />
 
 以100*4090为例，预计 12 天可以跑完。
+
+1.2cpu版本已发布  https://github.com/wangdage1949/WIF500_Lottery/releases/tag/v1.2
